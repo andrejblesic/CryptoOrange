@@ -1,7 +1,10 @@
 {
   "name": "sass-project",
   "nativescript": {
-    "id": "org.nativescript.sassproject"
+    "id": "org.nativescript.sassproject",
+    "tns-android": {
+      "version": "6.1.2"
+    }
   },
   "version": "0.0.0",
   "scripts": {
